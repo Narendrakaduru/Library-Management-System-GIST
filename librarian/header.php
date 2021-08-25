@@ -9,6 +9,7 @@
 			<link href="../css/docs.css" rel="stylesheet" media="screen">
 			<link href="../css/diapo.css" rel="stylesheet" media="screen">
 			<link href="../css/font-awesome.css" rel="stylesheet" media="screen">
+			<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.0/css/font-awesome.css">
 			<link rel="stylesheet" type="text/css" href="../css/style.css" />
 			<link rel="stylesheet" type="text/css" href="../css/DT_bootstrap.css" />
 			<link rel="stylesheet" type="text/css" media="print" href="../css/print.css" />
