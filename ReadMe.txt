@@ -1,4 +1,4 @@
-1.Before you run the project install xampp
+1.Before you run the project install xampp 5.5
 
 2.And then create a database called eb_lms in your db
 
