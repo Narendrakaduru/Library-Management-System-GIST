@@ -9,7 +9,7 @@
                     <div class="nav-collapse collapse">
                         <!-- .nav, .navbar-search, .navbar-form, etc -->
 					<ul class="nav">
-					<li><a href="dashboard.php">&nbsp;Home</a></li>
+					<li><a href="dashboard.php"><i class="icon-home icon-large"></i>&nbsp; Home</a></li>
 					<li><a href="users.php">&nbsp;Users</a></li>
 					<li>		
 					<a href=""  data-toggle="dropdown" >Transaction</a>
